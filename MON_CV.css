@@ -142,12 +142,14 @@ padding-left:10px;
 
 .info_comp{
     margin-left: -10%;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     
 }
 
 
-
+.titre_dev {
+    color:red ;
+}
 
 
 /*Fim mise en page CV*/
